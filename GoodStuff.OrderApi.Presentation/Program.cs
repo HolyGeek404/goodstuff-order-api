@@ -1,4 +1,4 @@
-using WebApi.Extensions;
+using GoodStuff.OrderApi.Presentation.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 

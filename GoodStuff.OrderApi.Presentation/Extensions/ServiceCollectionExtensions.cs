@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Identity.Web;
 using Microsoft.OpenApi.Models;
 
-namespace WebApi.Extensions;
+namespace GoodStuff.OrderApi.Presentation.Extensions;
 
 public static class ServiceCollectionExtensions
 {

@@ -1,7 +1,6 @@
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebApi.Controllers
+namespace GoodStuff.OrderApi.Presentation.Controllers
 {
     [Route("[controller]")]
     [ApiController]
